@@ -3,12 +3,12 @@ Hi there 👋
 My name is Priyanshi Ramani!
 
 - Interested in all things tech :)
-- 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning Python, Java, Racket
+- 🔭 I’m currently working on my personal website
+- 🌱 I’m currently learning Python and C
 - 👯 I’m looking to collaborate on intermediate projects
-- 🤔 I’m looking for help with learning different frameworks
+- 🤔 I’m looking for help with learning React.js
 - 💬 Ask me about my CS journey!
 - 📫 How to reach me: priyanshi1.ramani@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I went bunjee jumping this year!
+- ⚡ Fun fact: I went bunjee jumping last year!
 -->
