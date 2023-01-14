@@ -5,7 +5,7 @@ My name is Priyanshi Ramani!
 - Interested in all things tech :)
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning Python and C
-- 👯 I’m looking to collaborate on intermediate projects
+- 👯 I’m looking to collaborate on large-scale projects
 - 🤔 I’m looking for help with learning React.js
 - 💬 Ask me about my CS journey!
 - 📫 How to reach me: priyanshi1.ramani@gmail.com
